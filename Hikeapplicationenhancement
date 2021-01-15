@@ -26,6 +26,14 @@ API application programming interface
 
 GUI graphical user interface
 
+im adding some features about cucumber in the framework
+
+cucumber options
+
+given when and then feature scenario
+
+hooks @before @after
+
 learning more about TestNG framework than the cucumber framework
 
 i like to work in the selenium framework more than in the cucumber framework
