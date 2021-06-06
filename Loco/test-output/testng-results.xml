@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Failed suite [Default suite]" duration-ms="10925" started-at="2021-02-04T12:44:36Z" finished-at="2021-02-04T12:44:47Z">
+  <suite name="Default suite" duration-ms="48" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
     <groups>
     </groups>
-    <test name="Default test(failed)" duration-ms="10925" started-at="2021-02-04T12:44:36Z" finished-at="2021-02-04T12:44:47Z">
-      <class name="Coca.Loco.ReportTestcase">
-        <test-method status="PASS" signature="f()[pri:0, instance:Coca.Loco.ReportTestcase@57fffcd7]" name="f" duration-ms="10888" started-at="2021-02-04T12:44:36Z" finished-at="2021-02-04T12:44:47Z">
+    <test name="Default test" duration-ms="48" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
+      <class name="Coca.Loco.TestNGLearning">
+        <test-method status="PASS" signature="A()[pri:-1, instance:Coca.Loco.TestNGLearning@754ba872]" name="A" duration-ms="8" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- Coca.Loco.ReportTestcase -->
-    </test> <!-- Default test(failed) -->
-  </suite> <!-- Failed suite [Default suite] -->
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="B()[pri:0, instance:Coca.Loco.TestNGLearning@754ba872]" name="B" duration-ms="2" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method status="PASS" signature="C()[pri:0, instance:Coca.Loco.TestNGLearning@754ba872]" name="C" duration-ms="2" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="a()[pri:1, instance:Coca.Loco.TestNGLearning@754ba872]" name="a" duration-ms="1" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="D()[pri:2, instance:Coca.Loco.TestNGLearning@754ba872]" name="D" duration-ms="1" started-at="2021-06-06T10:19:55Z" finished-at="2021-06-06T10:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- Coca.Loco.TestNGLearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
